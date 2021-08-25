@@ -1,6 +1,8 @@
 .add-task-container {
     align-items: center;
+    width: 100%;
     display: flex;
+    margin: 15px 0;
 }
 
 .add-task-input {
@@ -14,8 +16,7 @@
     font-size: 16px;
 }
 
-.add-task-container {
-    margin: 10px 0;
-    margin-left: 10px;
+.add-task-button-container {
+    margin-left: 15px;
     flex: 1;
 }
